@@ -1,6 +1,6 @@
 # IBM Fraud Detection with Visual Recognition
 
-This project demonstrates fraud detection using IBM Watson's Visual Recognition service, integrated into a React-based landing page.
+This project demonstrates fraud detection using IBM Watson's Visual Recognition service.
 
 ## 🚀 Live Demo
 
