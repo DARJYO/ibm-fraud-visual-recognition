@@ -1,4 +1,8 @@
 import { BadgeCheck, BrainCog, Camera, ShieldCheck } from "lucide-react";
+import DemoClassifier from "./components/DemoClassifier";
+
+// inside the main return block
+<DemoClassifier />
 
 export default function FraudDetectionLanding() {
   return (
