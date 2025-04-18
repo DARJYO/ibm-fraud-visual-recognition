@@ -4,7 +4,7 @@ This project demonstrates fraud detection using IBM Watson's Visual Recognition 
 
 ## 🚀 Live Demo
 
-Deployed on Netlify: _Add your link here after deployment_
+Deployed: _will dd our link here after deployment_
 
 ## 🛠️ Tech Stack
 
@@ -27,4 +27,4 @@ npm run start
 - Clean, responsive landing page for portfolio use
 
 ---
-Built with 💡 and IBM Cloud
+Built with 💡 DARJYO and IBM Cloud
